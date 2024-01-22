@@ -1,10 +1,22 @@
 # Homework One
 
-For this assignment you need to setup WSL2 on windows 10/11 and install the Ubuntu operating system as seen in the video.  For Macintosh users, you already have linux/unix on your terminal, so you just need to install Git and you can follow the same procedure to generate the GitHub ssh key.  
+For this assignment you need to setup WSL2 on Windows 10/11 and install the Ubuntu operating system as seen in the video.  For Macintosh users, you already have Linux/Unix, so you just need to install Git and you can follow the same procedure to generate the GitHub ssh key.  
 
-## Videos
+## Instructor Videos
 1. [WSL 2 Setup - Part 1](https://youtu.be/JyvEEy9jIjQ)
 2. [Completing the Assignment with Command Line Git - Part 2](https://youtu.be/UaW4sT1CHfc)
+
+## Required Additional Videos
+1. WSL2 Explained - [Here](https://www.youtube.com/watch?v=LktFP0Dpl-c)
+2. Git Explained 100 Seconds - [Here](https://www.youtube.com/watch?v=hwP7WQkmECE)
+3. Vi Text Editor - [Here](https://www.youtube.com/watch?v=-_DvfdgR-LA)
+4. Linux Explained - [Here](https://www.youtube.com/watch?v=rrB13utjYV4)
+5. GitHub SSH Key Setup - [Here](https://www.youtube.com/watch?v=X40b9x9BFGo) <- different than how I do it in the video but will still work and may be better
+## Mac Users (ONLY) Install Git 
+1.  Git Install Video - [Here](https://www.youtube.com/watch?v=O3vtpZgI0fQ)
+2.  Git Installer Download - [Here](https://sourceforge.net/projects/git-osx-installer/)
+
+
 ## Instructions
 1. Install WSL2 with Ubuntu linux installed
 2. Create a GitHub Account - [Here](https://github.com/signup)
