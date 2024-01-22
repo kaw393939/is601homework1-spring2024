@@ -1,6 +1,6 @@
 # Homework One
 
-For this assignment you need to setup WSL2 on Windows 10/11 and install the Ubuntu operating system as seen in the video.  For Macintosh users, you already have Linux/Unix, so you just need to install Git and you can follow the same procedure to generate the GitHub ssh key.  
+For this assignment you need to setup WSL2 on Windows 10/11 and install the Ubuntu operating system as seen in the video.  For Macintosh users, you already have Linux/Unix, so you just need to install Git and you can follow the same procedure to generate the GitHub ssh key. You need to practice doing clear clean commits of single files and merging locally and remotly on GitHub using a pull request.  Put "Hello Professor" in the readme.md file and use Markdown to format it. 
 
 ## Instructor Videos
 1. [WSL 2 Setup - Part 1](https://youtu.be/JyvEEy9jIjQ)
@@ -12,9 +12,13 @@ For this assignment you need to setup WSL2 on Windows 10/11 and install the Ubun
 3. Vi Text Editor - [Here](https://www.youtube.com/watch?v=-_DvfdgR-LA)
 4. Linux Explained - [Here](https://www.youtube.com/watch?v=rrB13utjYV4)
 5. GitHub SSH Key Setup - [Here](https://www.youtube.com/watch?v=X40b9x9BFGo) <- different than how I do it in the video but will still work and may be better
+6. Using Markdown - [Here](https://www.youtube.com/watch?v=KhGWbt1dAKQ)
+7. Linus Torvalds TED Talk - Created Linux and GIT - [Here](https://www.youtube.com/watch?v=o8NPllzkFhE)
+
 ## Mac Users (ONLY) Install Git 
 1.  Git Install Video - [Here](https://www.youtube.com/watch?v=O3vtpZgI0fQ)
 2.  Git Installer Download - [Here](https://sourceforge.net/projects/git-osx-installer/)
+
 
 
 ## Instructions
